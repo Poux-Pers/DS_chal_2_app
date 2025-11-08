@@ -1,5 +1,8 @@
 # requirements.txt
+snowflake
 snowflake-connector-python
+requests
+pandas
 cffi==1.15.0
 streamlit
 plotly-express
